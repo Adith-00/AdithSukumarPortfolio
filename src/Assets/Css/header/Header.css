@@ -103,7 +103,11 @@
     font-size: 20px;
   }
   .header .right {
-    gap: 10px;
+    gap: 5px;
+  }
+  .header .right span {
+    width: 20px;
+    height: 20px;
   }
   .header .right .options {
     display: none;
@@ -120,9 +124,6 @@
   }
   .header h1 {
     font-size: 15px;
-  }
-  .header .right {
-    gap: 10px;
   }
   .header .right .options {
     display: none;

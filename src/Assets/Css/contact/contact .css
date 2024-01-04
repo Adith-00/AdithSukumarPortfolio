@@ -53,10 +53,14 @@
     font-size: 30px;
   }
   .contact-form-container .contactLinks .Links h2 {
-    font-size: 19px;
+    font-size: 11px;
+  }
+  .contact-form-container .contactLinks .Links h2 span {
+    width: 17px;
+    height: 17px;
   }
   .contact-form-container .contactLinks .Links a p {
-    font-size: 15px;
+    font-size: 11px;
   }
 }
 @media screen and (max-width: 355px) {
@@ -67,7 +71,7 @@
     gap: 20px;
   }
   .contact-form-container .contactLinks .Links h2 {
-    font-size: 13px;
+    font-size: 11px;
   }
   .contact-form-container .contactLinks .Links h2 span {
     width: 15px;

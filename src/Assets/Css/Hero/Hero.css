@@ -2,7 +2,7 @@
   display: flex;
   justify-content: space-around;
   align-items: center;
-  height: 80vh;
+  height: 97vh;
 }
 .hero .left h1 {
   color: #42446E;
@@ -62,19 +62,24 @@
 }
 @media screen and (max-width: 999px) {
   .hero {
-    flex-wrap: wrap-reverse;
-    justify-content: unset;
     padding-top: 70px;
-    align-items: unset;
     gap: 40px;
   }
   .hero .left h1 {
-    font-size: 35px;
+    font-size: 34px;
     line-height: 40px;
   }
   .hero .image {
     width: 300px;
     height: 300px;
+  }
+}
+@media screen and (max-width: 945px) {
+  .hero {
+    flex-wrap: wrap-reverse;
+    transition: 1.2s ease;
+    align-items: unset;
+    justify-content: unset;
   }
 }
 @media screen and (max-width: 792px) {

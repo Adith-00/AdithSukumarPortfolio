@@ -3,7 +3,7 @@
     // flex-wrap: wrap-reverse;
     justify-content: space-around;
     align-items: center;
-    height: 80vh;
+    height: 97vh;
     .left{
         h1{
             color: #42446E;
@@ -44,7 +44,6 @@
         border: 5px solid blueviolet;
         padding: 10px;
         border-radius: 100%;
-       
         img{
             width: 100%;
             display: block;
@@ -78,14 +77,12 @@
 }
 @media screen and (max-width: 999px) {
   .hero{
-        flex-wrap: wrap-reverse;
-        justify-content: unset;
+    
     padding-top: 70px;
-    align-items: unset;
     gap: 40px;
     .left{
       h1{
-        font-size: 35px;
+        font-size: 34px;
         line-height: 40px;
       }
     }
@@ -94,6 +91,15 @@
       height: 300px;
     }
   }
+}
+@media screen and (max-width:945px) {
+  .hero{
+    flex-wrap: wrap-reverse;
+    transition: 1.2s ease;
+    align-items: unset;
+    justify-content: unset;
+  }
+  
 }
 @media screen and (max-width: 792px) {
   .hero{

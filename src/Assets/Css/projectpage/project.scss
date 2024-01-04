@@ -49,9 +49,11 @@
                     img{
                         scale: 1.1;
                         transition: 0.2s ease-in;
+                       
                     }
                 }
                 img{
+                    transition: 0.2s ease-out;
                     width: 100%;
                     display: block;
                 }
@@ -88,7 +90,7 @@
                     color: #42446E;
                     justify-content: flex-start;
                     align-self: flex-start;
-                    width: 34%;
+                    width: 36%;
                     font-size: 16px;
                     font-style: normal;
                     font-weight: 580;
@@ -101,7 +103,7 @@
                     justify-content: flex-start;
                     flex-wrap: wrap;
                     overflow-wrap: break-word;
-                    width: 54%;
+                    width: 64%;
                     p{
                         color: #42446E;
                        font-size: 14px;

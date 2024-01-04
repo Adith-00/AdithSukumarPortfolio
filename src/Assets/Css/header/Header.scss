@@ -113,7 +113,11 @@
 
     }
     .right{
-      gap: 10px;
+      gap: 5px;
+      span{
+        width: 20px;
+        height: 20px;
+      }
       .options{
         display: none;
       }
@@ -133,7 +137,6 @@
 
     }
     .right{
-      gap: 10px;
       .options{
         display: none;
       }

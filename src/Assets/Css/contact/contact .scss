@@ -59,11 +59,15 @@
         .contactLinks{
             .Links{
                 h2{
-                    font-size: 19px;
+                    font-size: 11px;
+                    span{
+                        width: 17px;
+                        height: 17px;
+                    }
                 }
                 a{
                     p{
-                        font-size: 15px;
+                        font-size: 11px;
                     }
                 }
             }
@@ -79,7 +83,7 @@
             gap: 20px;
             .Links{
                 h2{
-                    font-size: 13px;
+                    font-size: 11px;
                     span{
                         width: 15px;
                         height: 15px;
