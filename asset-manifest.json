@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/AdithSukumarPortfolio/static/css/main.a2a84e90.css",
+    "main.css": "/AdithSukumarPortfolio/static/css/main.b6f61268.css",
     "main.js": "/AdithSukumarPortfolio/static/js/main.8429dd15.js",
     "static/js/787.7da95b79.chunk.js": "/AdithSukumarPortfolio/static/js/787.7da95b79.chunk.js",
     "static/media/chrome_uITr2egySJ.png": "/AdithSukumarPortfolio/static/media/chrome_uITr2egySJ.a25d28f31290710d4338.png",
@@ -33,12 +33,12 @@
     "static/media/sheet-plastic-solid.svg": "/AdithSukumarPortfolio/static/media/sheet-plastic-solid.1b48335d358acabca76dcce5c0235b38.svg",
     "static/media/bars-solid.svg": "/AdithSukumarPortfolio/static/media/bars-solid.ea9dec9eb106881f5c9873930e817d47.svg",
     "static/media/envelope-solid.svg": "/AdithSukumarPortfolio/static/media/envelope-solid.d60fd999958ca75d36999b66175f78e7.svg",
-    "main.a2a84e90.css.map": "/AdithSukumarPortfolio/static/css/main.a2a84e90.css.map",
+    "main.b6f61268.css.map": "/AdithSukumarPortfolio/static/css/main.b6f61268.css.map",
     "main.8429dd15.js.map": "/AdithSukumarPortfolio/static/js/main.8429dd15.js.map",
     "787.7da95b79.chunk.js.map": "/AdithSukumarPortfolio/static/js/787.7da95b79.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a2a84e90.css",
+    "static/css/main.b6f61268.css",
     "static/js/main.8429dd15.js"
   ]
 }
