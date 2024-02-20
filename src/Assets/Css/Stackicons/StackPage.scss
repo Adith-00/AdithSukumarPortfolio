@@ -35,6 +35,12 @@
             display: flex;
             width: 70px;
             height: 70px;
+            &:hover{
+                img{
+                    scale: 1.05;
+                    transition: 0.2s ease;
+                }
+            }
             img{
                 width: 100%;
                 display: block;

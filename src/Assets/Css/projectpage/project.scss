@@ -41,6 +41,12 @@
             max-height: 550px;
             overflow: hidden;
             border-radius: 10px;
+            cursor: pointer;
+            transition: 0.2s ease-out;
+            &:hover{
+                scale: 1.04;
+                transition: 0.2s ease-in;
+            }
             h2{
                 width: fit-content;
                 height: 28%;

@@ -24,7 +24,7 @@ const Projectcard = ({Title,About,stack,cardimage,gitLink}) => {
           
         </div>
         <div className="link">
-          <p>
+          <p style={{display:"none"}} >
             <i>
               <img src={acnchorlink} alt="link" />
             </i>

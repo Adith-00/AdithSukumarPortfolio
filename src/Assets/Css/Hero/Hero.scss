@@ -77,7 +77,7 @@
 }
 @media screen and (max-width: 999px) {
   .hero{
-    
+    flex-wrap: wrap-reverse;
     padding-top: 70px;
     gap: 40px;
     .left{
@@ -94,14 +94,11 @@
 }
 @media screen and (max-width:945px) {
   .hero{
-    flex-wrap: wrap-reverse;
-    transition: 1.2s ease;
-    align-items: unset;
     justify-content: unset;
   }
   
 }
-@media screen and (max-width: 792px) {
+@media screen and (max-width: 880px) {
   .hero{
     justify-content: unset;
     padding-top: 70px;

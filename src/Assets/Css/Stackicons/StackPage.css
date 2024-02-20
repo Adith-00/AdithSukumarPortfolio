@@ -38,6 +38,10 @@
   width: 70px;
   height: 70px;
 }
+.StackIcons .Images span:hover img {
+  scale: 1.05;
+  transition: 0.2s ease;
+}
 .StackIcons .Images span img {
   width: 100%;
   display: block;
